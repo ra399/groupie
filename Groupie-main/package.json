@@ -5,7 +5,7 @@
   "scripts": {
     "start": "npx nodemon backend/server.js"
   },
-  "author": "vishwa",
+  "author": "rajesh",
   "license": "ISC",
   "description": "",
   "dependencies": {
